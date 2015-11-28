@@ -29,7 +29,7 @@ public class Heap< T extends Comparable<T> > implements PriQueueInterface<T>
 
     @Override
     public void enqueue() throws PriOverflowException {
-        
+
     }
 
     @Override
